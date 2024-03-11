@@ -1,0 +1,9 @@
+numpy>=1.12.0
+ruamel.yaml>=0.15.34
+packaging
+
+[pandas]
+pandas
+
+[units]
+pint
